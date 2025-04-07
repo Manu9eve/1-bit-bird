@@ -9,8 +9,8 @@ function love.conf(t)
 	t.window.title = "1-BIT Bird"
 	t.window.icon = "icon.png"
 	
-	t.window.width = 240
-	t.window.height = 320
+	t.window.width = 480
+	t.window.height = 640
 	
-	t.window.fullscreen = true
+	t.window.fullscreen = false
 end

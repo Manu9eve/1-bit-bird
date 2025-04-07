@@ -146,11 +146,11 @@ end
 
 function love.keypressed(key)
 
-	if key == "escape" then
+	if key == "escape" and love.system.getOS() ~= "Web" then
 		love.event.quit()
 	end
 	
-	if key == "f" then
+	if key == "f" and love.system.getOS() ~= "Web" then
 		love.window.setFullscreen((not love.window.getFullscreen()))
 	end
 	
