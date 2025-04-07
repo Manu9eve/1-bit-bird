@@ -1,4 +1,3 @@
 # 1-bit-bird
 A 1-bit flappy bird clone made with LÖVE
-![image](https://github.com/user-attachments/assets/48f51eba-82fb-4165-bc87-6de88e9f15be)
-
+![image](https://github.com/user-attachments/assets/9e724741-9805-4b4c-bdb3-3a78be1321d9)
